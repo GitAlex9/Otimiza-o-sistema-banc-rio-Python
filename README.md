@@ -42,21 +42,6 @@ Esta versão do projeto não apenas cumpre todos os requisitos da Etapa 2, mas t
     * Implementação de uma função `clear_screen` para limpar o terminal a cada nova tela, tornando a experiência do usuário mais limpa e organizada.
 * **Modularização Avançada:** O código foi dividido em funções com responsabilidades únicas (ex: `validate_cpf`, `select_account`), seguindo os princípios de código limpo.
 
-## Como Executar o Projeto
-
-1.  Certifique-se de ter o Python 3 instalado.
-2.  Clone este repositório:
-    ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    ```
-3.  Navegue até a pasta do projeto:
-    ```bash
-    cd seu-repositorio
-    ```
-4.  Execute o arquivo principal:
-    ```bash
-    python nome_do_arquivo.py
-    ```
 
 ## Autor
 
