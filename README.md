@@ -60,7 +60,4 @@ Esta versão do projeto não apenas cumpre todos os requisitos da Etapa 2, mas t
 
 ## Autor
 
-**[Coloque seu Nome Completo Aqui]**
-
-* **LinkedIn:** [Link para seu LinkedIn]
-* **GitHub:** [Link para seu GitHub]
+**Alex de Souza Braga**
